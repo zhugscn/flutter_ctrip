@@ -1,3 +1,8 @@
+声明，这是本人自己实验的，扩展功能使用。不保证一定能用。请谨慎下载使用。谢谢。---zhugscn
+
+
+--------------以下是原project的说明-------------------------
+
 ![logo](https://cdn.lishaoy.net/flutterCtrip/iOS-andorid.png)
 
 ## 跨端(iOS/Android)移动应用创建携程App
